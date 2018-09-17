@@ -2,10 +2,14 @@ body {
     background-color: lightblue
 }
 
-h1 {
+h1, h3 {
     text-align: left;
 }
 
 a:link, a:visited {
     color: green;
+}
+
+ul {
+
 }
