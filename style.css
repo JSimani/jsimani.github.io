@@ -2,8 +2,13 @@ body {
     background-color: lightblue
 }
 
-h1, h3 {
-    text-align: left;
+h3 {
+    line-height: 10%;
+    font-size: 130%;
+}
+
+p {
+    line-height: 0.1
 }
 
 a:link, a:visited {
