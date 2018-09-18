@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(244, 228, 206);
+}
+
+h3 {
+    line-height: 10%;
+    font-size: 130%;
+}
+
+p {
+    line-height: 0.1
+}
+
+a:link, a:visited {
+    color: black;
+    text-decoration: none
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 165px
+}
+
+li a {
+    font-size: 130%;
+    display: block;
+    background: rgb(250, 140, 170);
+}
+
+li a:hover {
+    background: rgb(230, 140, 160);
+}
