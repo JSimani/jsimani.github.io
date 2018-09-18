@@ -5,8 +5,14 @@ body {
     font-size: 125%;
 }
 
-h1 {
-    text-align: center;
+a:link, a:visited {
+    position: fixed;
+    top: 0px !important;
+    left: 0px !important;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 0px;
+    color: blue;
 }
 
 h3 {
