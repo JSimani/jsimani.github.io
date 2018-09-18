@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(244, 228, 206);
+}
+
+h3 {
+    line-height: 10%;
+    font-size: 130%;
+}
+
+p {
+    line-height: 0.1
+}
