@@ -12,3 +12,9 @@ This is the HTML file used to render the resume page of my website. In it, I lis
 
 ## ```bio.html``` 
 This is the HTML file used to render the biography page of my website. In it, I give a brief biography of myself. This page was formatted using ```text.css```.
+
+## ```menu.css```
+This is the CSS file used to format the homepage of my website. This CSS file needed to be separate from the one used to format other pages on the website because it modified the unordered list tag so that I could give it the appearance of a menu with multiple selectible buttons. 
+
+## ```text.css``` 
+This is the CSS file used to format the resume and biography pages of my website so that it would maintain similar visual effects as the homepage, but could also use normally styled unordered lists. 
