@@ -4,4 +4,11 @@ For the first assignment of COMP20 (Web Development), I created my own personal 
 
 Below is a brief description of the files included in the website.
 
-## index.html
+## ```index.html```
+This is the HTML file used to render the homepage of my website. In it are links to the other pages, as well as a photo of me. This page was formatted using ```menu.css```. I used a stylized unordered list to create the menu and give it a more aesthetically pleasing appearance.
+
+## ```resume.html```
+This is the HTML file used to render the resume page of my website. In it, I list my education, experience, awards, skills, and relevant activities. I mainly used headers and unordered lists to accomplish this. This page was formatted using ```text.css```.
+
+## ```bio.html``` 
+This is the HTML file used to render the biography page of my website. In it, I give a brief biography of myself. This page was formatted using ```text.css```.
