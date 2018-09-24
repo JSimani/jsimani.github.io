@@ -1,37 +1,6 @@
 body {
     background-color: rgb(244, 228, 206);
-    text-align: center;
     margin-left: 17.5em;
     margin-right: 17.5em;
 }
 
-a:link, a:visited {
-    color: black;
-    text-decoration: none;
-}
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    width: 300px;
-    border: 1px solid #555;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-li {
-    font-size: 130%;
-    display: block;
-    background: rgb(250, 140, 170);
-    text-align: center;
-    border-bottom: 1px solid #555;
-}
-
-li:last-child {
-    border: none;
-}
-
-li:hover {
-    background: rgb(230, 140, 160);
-}
