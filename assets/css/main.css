@@ -1797,11 +1797,13 @@
 	.box {
 		margin-bottom: 2rem;
 		background: #FFF;
+		height: auto;
 	}
 
 		.box .content1 {
 			padding: 3rem;
 			width: 70%;
+			height: inherit;
 		}
 
 		.box .content2 {
@@ -2365,10 +2367,14 @@
 			margin: 0 0 2rem 0;
 			width: 30%;
 			float: right;
+			vertical-align: middle;
+			
 		}
 
 			.image.fit img {
 				width: 100%;
+
+				height: 100%;
 			}
 
 		.image.main {
