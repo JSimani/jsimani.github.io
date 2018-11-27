@@ -45,7 +45,11 @@
 			its extension (eg. images/banner). Your video must be available in both .mp4 and .webm
 			formats to work correctly.
 		-->
-			<section id="banner" data-video="images/banner">
+			
+			<section id="banner">
+				<video loop preload="yes" muted autoplay tabindex="0">
+					<source src="images/banner.mp4" type="video/mp4">
+				</video>
 				<div class="inner">
 					<h1>Josh Simani</h1>
 					<p>Welcome to my personal website</p>
