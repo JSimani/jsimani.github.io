@@ -1802,8 +1802,9 @@
 
 		.box .content1 {
 			padding: 3rem;
-			width: 70%;
+			width: 75%;
 			height: inherit;
+			/*float: left;*/
 		}
 
 		.box .content2 {
@@ -2365,10 +2366,8 @@
 		.image.fit {
 			display: block;
 			margin: 0 0 2rem 0;
-			width: 30%;
-			float: right;
-			vertical-align: middle;
-			
+			width: 25.5%;
+			float: right;			
 		}
 
 			.image.fit img {
