@@ -1828,6 +1828,12 @@
 			margin-top: 0.25em;
 			margin-bottom: 0.25em;
 		}
+		.box .content2 .indented_bullet {
+			padding: 0rem;
+			margin-left: 3em;
+			margin-top: 0.25em;
+			margin-bottom: 0.25em;
+		}
 
 		.box .content2 header h2 {
 			font-size: 200%
@@ -2383,7 +2389,7 @@
 			display: block;
 			margin: 0 0 2rem 0;
 			width: 25.5%;
-			float: right;			
+			float: right;
 		}
 
 			.image.fit img {
